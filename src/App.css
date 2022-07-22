@@ -3,3 +3,8 @@
     border-bottom: 1px solid black;
     padding: 0.4rem;
 }
+
+.h4i-header-logo {
+    height: 60px;
+    margin: 30px;
+}

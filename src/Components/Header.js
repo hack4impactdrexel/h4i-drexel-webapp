@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
 function Header() {
     return (
-        <header className="app-header">Header</header>
+        <header className='app-header'>Header</header>
     );
 }
 
